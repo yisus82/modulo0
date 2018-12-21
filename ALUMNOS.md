@@ -9,3 +9,4 @@ Poned vuestro nombre y una frase cualquiera.
 `Andrea Magán` - "Hi BOSers!, por aquí os dejo una frase cualquiera ;)"
 `Daniel Romero` - “Namaste!”
 `Sara-Lúa` - "Hey! Una más."
+`Tomás Iglesias` - Otro que se une para completar ejercicios, un saludo a todos
