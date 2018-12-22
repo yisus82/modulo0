@@ -10,3 +10,4 @@ Poned vuestro nombre y una frase cualquiera.
 `Daniel Romero` - “Namaste!”
 `Sara-Lúa` - "Hey! Una más."
 `Tomás Iglesias` - Otro que se une para completar ejercicios, un saludo a todos
+`Jesús Pérez-Roca` - “Hola a todos”
