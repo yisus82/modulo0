@@ -42,4 +42,4 @@ Los objetivos del Módulo 0 son:
 
 #### Metodología agile: [ver](extra/agile.md).
 
-**ATENCIÓN!!** En los próximos días tendrás acceso a nuestra plataforma donde podrás preguntar tus dudas, conversar con tus compañeros y hacer quizzes :D
+**ATENCIÓN!!** [Recordad que tenéis acceso a la plataforma donde se irán añadiendo ejercicios, eventos y donde podréis poneros en contacto entre vosotros y preguntar dudas!](https://hackabos.talentlms.com)
